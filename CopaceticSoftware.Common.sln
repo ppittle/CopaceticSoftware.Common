@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopaceticSoftware.Common", "CopaceticSoftware.Common\CopaceticSoftware.Common.csproj", "{4EFF43AF-C8A8-465C-91A4-9283AC21A199}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Key", "Key", "{4436B003-2026-4034-A374-CFF80D821B4E}"
+	ProjectSection(SolutionItems) = preProject
+		CopaceticSoftware.Common.snk = CopaceticSoftware.Common.snk
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopaceticSoftware.Common.Web", "CopaceticSoftware.Common.Web\CopaceticSoftware.Common.Web.csproj", "{1E058DF0-D633-47F4-936A-2D47A09F6D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopaceticSoftware.Common.Tests", "CopaceticSoftware.Common.Tests\CopaceticSoftware.Common.Tests.csproj", "{A8AAE5CB-E4FB-46FF-8E42-7F0F03729485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EFF43AF-C8A8-465C-91A4-9283AC21A199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFF43AF-C8A8-465C-91A4-9283AC21A199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFF43AF-C8A8-465C-91A4-9283AC21A199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFF43AF-C8A8-465C-91A4-9283AC21A199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E058DF0-D633-47F4-936A-2D47A09F6D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E058DF0-D633-47F4-936A-2D47A09F6D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E058DF0-D633-47F4-936A-2D47A09F6D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E058DF0-D633-47F4-936A-2D47A09F6D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8AAE5CB-E4FB-46FF-8E42-7F0F03729485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8AAE5CB-E4FB-46FF-8E42-7F0F03729485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8AAE5CB-E4FB-46FF-8E42-7F0F03729485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8AAE5CB-E4FB-46FF-8E42-7F0F03729485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

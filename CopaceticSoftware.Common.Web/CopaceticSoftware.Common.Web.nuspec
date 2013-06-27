@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+	  <id>CopaceticSoftware.Common.Web</id>
+	  <version>$version$</version>
+	  <title>CopaceticSoftware.Common.Web Class Library for Web projects</title>
+	  <authors>$author$</authors>
+	  <owners>$author$</owners>
+	  <projectUrl>https://nuget.org/packages/CopaceticSoftware.Common.Web</projectUrl>
+	  <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
+	  <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
+	  <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	  <description>$description$</description>
+	  <summary>$description$</summary>
+	  <releaseNotes>Initial Beta.</releaseNotes>
+	  <copyright>Copyright 2013</copyright>
+	  <tags>CopaceticSoftware Web Copacetic Software Common</tags>
+  </metadata>  
+</package>
